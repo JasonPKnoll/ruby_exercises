@@ -1,4 +1,4 @@
-require './spec/spec_helper'
+require 'rspec'
 require './lib/hobbit'
 
 RSpec.describe Hobbit do

@@ -1,0 +1,3 @@
+class Hashes
+  empty = {}
+end

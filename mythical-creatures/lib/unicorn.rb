@@ -12,7 +12,7 @@ class Unicorn
     false
   end
 
-  def say(stuff)
-    "**;* #{stuff} **;*"
+  def say(words)
+    "**;* #{words} **;*"
   end
 end
